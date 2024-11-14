@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+    -   text: creating unmodifiable collections
+    -   text: adding new elements to a collection
+    -   text: reversing and shuffling lists
+    -   text: creating copies of collections
+    -   text: summing all values in a collection
+files:
+    -   name: src/Task.java
+        visible: true
+        learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2114#comment
+status: Solved
+record: -1
+local_check: false

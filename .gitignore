@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Recipe Management System/task/build/
+/Recipe Management System/task/out/
+/Recipe Management System/task/out/production/classes/
+/Topics/The utility class Collections/Multiple swaps/out/
+/Topics/The utility class Collections/Multiple swaps/out/production/classes/
